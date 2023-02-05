@@ -1,8 +1,8 @@
 # Next.js Starter
 
-(w/ [/app directory](https://beta.nextjs.org/docs/routing/fundamentals)
+(w/ [/app directory](https://beta.nextjs.org/docs/routing/fundamentals))
 
-💫*Currently In progress*
+🚀💫 *Currently In progress*
 #### Technologies Used:
 
 - Next.js 13 (/app directory)
@@ -12,7 +12,7 @@
 - ESLint
 - ... (will add more technologies to this list later)
 
-❗**Warning**: The app directory is in beta and some conventions could change before stability is reached. We do not recommend using the app directory in production.
+❗ **Warning**: The app directory is in beta and some conventions could change before stability is reached. We do not recommend using the app directory in production.
 
 ---
 
