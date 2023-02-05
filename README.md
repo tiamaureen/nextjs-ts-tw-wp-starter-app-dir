@@ -4,7 +4,7 @@
 
 🚀💫 *Currently In progress*
 
-**Technologies I'm Using**
+**Technologies I'm Using:**
 
 - [Next.js 13](https://nextjs.org/docs) [/app directory](https://beta.nextjs.org/docs/routing/fundamentals)
 - [Typescript](https://www.typescriptlang.org/docs/)
@@ -12,9 +12,11 @@
 - [Headless Wordpress CMS](https://developer.wordpress.org/rest-api/)
 - ... (will add more technologies to this list later)
 
-❗ **Warning**: The app directory is in beta and some conventions could change before stability is reached. We do not recommend using the app directory in production.
+❗ "**Warning**: The app directory is in beta and some conventions could change before stability is reached. We do not recommend using the app directory in production." ~ [from Next.js](https://beta.nextjs.org/docs/upgrade-guide#migrating-from-pages-to-app)
 
 ---
+
+*more info*
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
