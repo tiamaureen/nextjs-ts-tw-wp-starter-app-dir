@@ -3,7 +3,7 @@
 (w/ [/app directory](https://beta.nextjs.org/docs/routing/fundamentals))
 
 🚀💫 *Currently In progress*
-#### Technologies Used:
+#### Technologies Used
 
 - Next.js 13 (/app directory)
 - Typescript
