@@ -1,11 +1,14 @@
-# Next.js Starter
+# Next.js Starter (w/ /app directory)
 
 *In progress*
 
-- Next.js 13
+- Next.js 13 (/app directory)
 - Typescript
 - Tailwind CSS
 - Headless Wordpress CMS
+- ESLint
+
+❗**Warning**: The app directory is in beta and some conventions could change before stability is reached. We do not recommend using the app directory in production.
 
 ---
 
