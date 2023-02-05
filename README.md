@@ -3,13 +3,13 @@
 (w/ [/app directory](https://beta.nextjs.org/docs/routing/fundamentals))
 
 🚀💫 *Currently In progress*
-#### Technologies Used
 
-- Next.js 13 (/app directory)
-- Typescript
-- Tailwind CSS
-- Headless Wordpress CMS
-- ESLint
+**Technologies I'm Using**
+
+- [Next.js 13](https://nextjs.org/docs) [/app directory](https://beta.nextjs.org/docs/routing/fundamentals)
+- [Typescript](https://www.typescriptlang.org/docs/)
+- [Tailwind CSS](https://www.typescriptlang.org/docs/)
+- [Headless Wordpress CMS](https://developer.wordpress.org/rest-api/)
 - ... (will add more technologies to this list later)
 
 ❗ **Warning**: The app directory is in beta and some conventions could change before stability is reached. We do not recommend using the app directory in production.
