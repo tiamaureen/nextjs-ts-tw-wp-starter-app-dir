@@ -6,9 +6,9 @@
 
 **Technologies I'm Using:**
 
-- [Next.js 13](https://nextjs.org/docs) [/app directory](https://beta.nextjs.org/docs/routing/fundamentals)
+- [Next.js 13](https://nextjs.org/docs) w/ experimental [/app directory](https://beta.nextjs.org/docs/routing/fundamentals)
 - [Typescript](https://www.typescriptlang.org/docs/)
-- [Tailwind CSS](https://www.typescriptlang.org/docs/)
+- [Tailwind CSS](https://tailwindcss.com/docs/guides/nextjs)
 - [Headless Wordpress CMS](https://developer.wordpress.org/rest-api/)
 - ... (will add more technologies to this list later)
 
